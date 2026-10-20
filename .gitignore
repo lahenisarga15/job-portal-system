@@ -1,0 +1,12 @@
+target/
+data/
+.idea/
+.vscode/
+*.iml
+.env
+
+application.properties
+
+src/main/resources/application.properties
+
+src/main/resources/application-mysql.properties
